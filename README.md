@@ -4,8 +4,6 @@
 
 <br><br>
 
-<img src="./shree-ascii.svg" width="380" alt="Cat on Moon Logo" />
-&nbsp;&nbsp;
-<img src="./info-card.svg" width="460" alt="Neofetch Systems Card" />
+<img src="./cockpit-deck.svg" width="860" alt="Terminal Cockpit Deck" />
 
 </div>
